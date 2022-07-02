@@ -1,7 +1,7 @@
 {
   "name": "Bhalu", 
   "symbol": "BHLU",
-  "uri": "TOKEN_URI",
+  "uri": "https://raw.githubusercontent.com/Jayu99/Crypto/main/Bhalu%20URI",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
